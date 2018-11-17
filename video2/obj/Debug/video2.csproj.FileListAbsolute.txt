@@ -1,0 +1,12 @@
+D:\C# LTUD QL sáng t3 và th t7\kteam\video2\bin\Debug\video2.exe.config
+D:\C# LTUD QL sáng t3 và th t7\kteam\video2\bin\Debug\video2.exe
+D:\C# LTUD QL sáng t3 và th t7\kteam\video2\bin\Debug\video2.pdb
+D:\C# LTUD QL sáng t3 và th t7\kteam\video2\obj\Debug\video2.csprojResolveAssemblyReference.cache
+D:\C# LTUD QL sáng t3 và th t7\kteam\video2\obj\Debug\video2.frmMain.resources
+D:\C# LTUD QL sáng t3 và th t7\kteam\video2\obj\Debug\video2.Properties.Resources.resources
+D:\C# LTUD QL sáng t3 và th t7\kteam\video2\obj\Debug\video2.csproj.GenerateResource.Cache
+D:\C# LTUD QL sáng t3 và th t7\kteam\video2\obj\Debug\video2.exe
+D:\C# LTUD QL sáng t3 và th t7\kteam\video2\obj\Debug\video2.pdb
+D:\C# LTUD QL sáng t3 và th t7\kteam\video2\obj\Debug\video2.frm1.resources
+D:\C# LTUD QL sáng t3 và th t7\kteam\video2\obj\Debug\video2.hd.resources
+D:\C# LTUD QL sáng t3 và th t7\kteam\video2\obj\Debug\video2.frm3.resources
